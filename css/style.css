@@ -614,6 +614,7 @@ img {
   border-radius: 4px;
   
   background-color: transparent;
+  color: var(--second-text-color);
 }
 
 .footer-btn {
@@ -742,7 +743,7 @@ img {
   transition-property: transform;
   transition-duration: var(--timing);
   transition-timing-function: var(--timing-function);
-  transform: translateY(100%);
+  transform: translateY(101%);
   
   height: 100%;
   padding: 63px 24px;
